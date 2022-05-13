@@ -1,0 +1,177 @@
+[
+  {
+    "id": 0,
+    "station": {
+      "name": "France Inter",
+      "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3"
+    }
+  },
+  {
+    "id": 1,
+    "station": {
+      "name": "France Info",
+      "url": "https://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+    }
+  },
+  {
+    "id": 2,
+    "station": {
+      "name": "RTL",
+      "url": "https://icecast.rtl.fr/rtl-1-44-128?listen=wEbDAQODAkPCwwMAg8EBAIFCQ"
+    }
+  },
+  {
+    "id": 3,
+    "station": {
+      "name": "Radio France Internationale (RFI) Monde",
+      "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3"
+    }
+  },
+  {
+    "id": 4,
+    "station": {
+      "name": "Radio Classique",
+      "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+    }
+  },
+  {
+    "id": 5,
+    "station": {
+      "name": "Radio Swiss Classic (FR)",
+      "url": "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128"
+    }
+  },
+  {
+    "id": 6,
+    "station": {
+      "name": "Europe 1",
+      "url": "https://stream.europe1.fr/europe1.mp3?aw_0_1st.playerid=lgrdrnwsRadiofr"
+    }
+  },
+  {
+    "id": 7,
+    "station": {
+      "name": "Bel RTL",
+      "url": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"
+    }
+  },
+  {
+    "id": 8,
+    "station": {
+      "name": "France Culture",
+      "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac"
+    }
+  },
+  {
+    "id": 9,
+    "station": {
+      "name": "FG Radio FG",
+      "url": "https://stream.rcs.revma.com/7081n2b6p98uv"
+    }
+  },
+  {
+    "id": 10,
+    "station": {
+      "name": "ABC Lounge",
+      "url": "https://listen.openstream.co/3139/audio"
+    }
+  },
+  {
+    "id": 11,
+    "station": {
+      "name": "Absolute Chillout",
+      "url": "https://streaming.live365.com/b05055_128mp3"
+    }
+  },
+  {
+    "id": 12,
+    "station": {
+      "name": "Bloomberg Radio",
+      "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac"
+    }
+  },
+  {
+    "id": 13,
+    "station": {
+      "name": "WNYC 93.9 FM",
+      "url": "https://fm939.wnyc.org/wnycfm-web"
+    }
+  },
+  {
+    "id": 14,
+    "station": {
+      "name": "BBC Radio 2",
+      "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
+    }
+  },
+  {
+    "id": 15,
+    "station": {
+      "name": "KKOL - WALL STREET BUSINESS NETWORK 1300 AM",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAMAAC.aac"
+    }
+  },
+  {
+    "id": 16,
+    "station": {
+      "name": "Talking Alternative",
+      "url": "http://96.31.83.87:8005/\\;"
+    }
+  },
+  {
+    "id": 17,
+    "station": {
+      "name": "LBC 97.3 FM",
+      "url": "https://media-ssl.musicradio.com/LBCLondon"
+    }
+  },
+  {
+    "id": 18,
+    "station": {
+      "name": "Public Santé Nutri-Conso",
+      "url": "https://publicsantenutri-conso.ice.infomaniak.ch/publicsantenutri-conso-192.mp3"
+    }
+  },
+  {
+    "id": 19,
+    "station": {
+      "name": "Radio Public Santé",
+      "url": "https://radiopublicsante.ice.infomaniak.ch/radiopublicsante-192.mp3"
+    }
+  },
+  {
+      "id" : 20,
+      "station" : {
+          "name" : "The X-Files Network",
+          "url" : "https://s4.radio.co/s8778d984b/listen"
+      }
+  },
+  {
+    "id" : 21,
+    "station" : {
+        "name" : "ABN Old-Time Radio Antioch",
+        "url" : "https://s6.yesstreaming.net:8000/listen"
+    }
+  },
+  {
+    "id" : 22,
+    "station" : {
+        "name" : "Chicago Public Radio",
+        "url" : "https://stream.wbez.org/wbez64-web.aac"
+    }
+  },
+  {
+    "id" : 23,
+    "station" : {
+        "name" : "TWiT",
+        "url" : "https://d2a481t1usahi0.cloudfront.net/live/5972034.mp3?episode_id=5972034&show_id=1401801&user_id=4653946&tenant=SPREAKER&timestamp=1643300965&station_hash=server_18899_live_5972034&media_type=dynamic&preroll=false"
+    }
+  }
+
+  
+
+
+
+    
+    
+]
